@@ -1,1 +1,1 @@
-echo "Yes Job pulled"
+echo "Yes Job pulled now"
